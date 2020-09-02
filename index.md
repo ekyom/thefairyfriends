@@ -1,7 +1,10 @@
 # The Fairy Friends Season 1, Episode 1
 
 Once upon a time, there were two fairy friends in the fairy land. The first fairys' name was Ekyom and the other fairys' name was Ekam.  ​
-
+![Fairy Friends](fairyfriends.jpeg)
+<img src="fairyfriends.jpeg"
+     alt="Fairy Friends"
+     style="float: right; margin-right: 10px;" scale="30%"/>
 They both had different powers. Ekyom had the power of nature and Ekam had the power of wind. While Ekam wore clothes made of clouds, Ekyom's clothes were made of leaves and flowers. ​
 
 They both used to play hide and seek under or over the clouds , in plants etc . Ekyom and Ekam had unicorns to go here and there .​
